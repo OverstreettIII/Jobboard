@@ -1,0 +1,15 @@
+.env
+*.pyc
+__pycache__/
+*.sqlite3
+/media/
+/staticfiles/
+node_modules/
+.vscode/
+.idea/
+*.log
+*.bak
+*.zip
+*.tar
+*.gz
+.DS_Store

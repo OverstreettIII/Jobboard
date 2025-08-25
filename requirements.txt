@@ -1,0 +1,7 @@
+django
+psycopg2-binary
+scrapy
+requests
+scrapy-user-agents
+openai
+python-dotenv
